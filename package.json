@@ -1,0 +1,19 @@
+{
+  "name": "peopleoop",
+  "version": "1.0.0",
+  "description": "Javascript This is a exercise that I did to demonstrate my understanding of  object orientated programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Themba-Stacks/PeopleOOP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Themba-Stacks/PeopleOOP/issues"
+  },
+  "homepage": "https://github.com/Themba-Stacks/PeopleOOP#readme"
+}
